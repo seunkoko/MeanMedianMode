@@ -1,4 +1,4 @@
-#A program to calculate the mean, median and mode of a list of numbers.
+# A program to calculate the mean, median and mode of a list of numbers.
 
 list = []
 dict = {}
@@ -12,7 +12,7 @@ while (times != 0):
 else:
 	pass
 	
-#We calculate mean now
+# We calculate mean now
 if len(list) == 0:
 	print "You have entered an empty set."
 else:
